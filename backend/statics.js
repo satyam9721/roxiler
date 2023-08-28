@@ -68,4 +68,4 @@ app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
 
-// to run the statics http://localhost:3000/statistics?month=03
+// to run the statics http://localhost:5000/statistics?month=03
