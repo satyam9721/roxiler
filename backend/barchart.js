@@ -78,4 +78,4 @@ app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
 
-//to  test the api by month http://localhost:3000/bar-chart?month=01
+//to  test the api by month http://localhost:2000/bar-chart?month=01
