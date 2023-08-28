@@ -73,5 +73,5 @@ app.listen(PORT, () => {
 
 //to test the api endpoints 
 
-//List all transactions: http://localhost:3000/transactions
-// http://localhost:3000/transactions?search=Mens&page=2&per_page=15
+//List all transactions: http://localhost:7000/transactions
+// http://localhost:7000/transactions?search=Mens&page=2&per_page=15
