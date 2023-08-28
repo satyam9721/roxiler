@@ -12,3 +12,11 @@ All Backend Endpoints:-
 (GET) PieChart:- http://localhost:4000/pie-chart?month=10
 
 (GET) FinalApi:- http://localhost:9000/combined-data?month=9
+
+
+All Frontend (Routes)  Endpoints:- 
+
+
+http://localhost:3000/
+http://localhost:3000/statics
+http://localhost:3000/chart
