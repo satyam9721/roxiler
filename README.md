@@ -3,6 +3,7 @@ All Backend Endpoints:-
 (GET) To Store Data:-   http://localhost:6000/fetch-and-store
 
 (GET) List all transactions: http://localhost:7000/transactions
+
  http://localhost:7000/transactions?search=Mens&page=2&per_page=15
 
 (GET) Statics :-  http://localhost:5000/statistics?month=03
@@ -18,5 +19,7 @@ All Frontend (Routes)  Endpoints:-
 
 
 http://localhost:3000/
+
 http://localhost:3000/statics
+
 http://localhost:3000/chart
