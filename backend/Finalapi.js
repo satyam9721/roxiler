@@ -39,7 +39,7 @@ app.get('/combined-data', async (req, res) => {
     const statisticsResponse = await axios.get(`http://localhost:5000/statistics?month=${month}`);
 
     // Fetch data from bar chart API
-    const barChartResponse = await axios.get(`http://localhost:3000/bar-chart?month=${month}`);
+    const barChartResponse = await axios.get(`http://localhost:2000/bar-chart?month=${month}`);
 
     // Fetch data from pie chart API
     const pieChartResponse = await axios.get(`http://localhost:4000/pie-chart?month=${month}`);
